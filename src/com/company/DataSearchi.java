@@ -10,8 +10,6 @@ public class DataSearchi {
 //       String value=names.substring(0,names.lastIndexOf("_")).replace("_","");
 //        System.out.println(value);
 
-
-
         String  num = "151";
         StringBuilder ch = new StringBuilder();
         for (int i = num.length()-1; i >= 0; i--) {

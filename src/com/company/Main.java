@@ -45,7 +45,7 @@ public class Main {
        int ans= new Main().binarySearch(n,first,last-1);
         System.out.println(ans);
 
-        Sudoku sudoku=new Sudoku();
+
 
     }
 }
